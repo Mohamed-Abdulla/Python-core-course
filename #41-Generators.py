@@ -3,7 +3,7 @@
 def topten():
     #convert this normal function to generator using yeild 5 instead of return
     # yield 1 #return 1
-    #print topten perfect squares
+    #?print topten perfect squares
     n=1
     while n<=10:
         squares=n*n
