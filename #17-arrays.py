@@ -21,6 +21,7 @@ for e in newarr:
     print(e)
 
 char=array('u',['a','c','b'])
+
 for j in char:
     print(j)
 
